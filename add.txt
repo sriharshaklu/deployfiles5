@@ -1,0 +1,2 @@
+This is my firt file to deploy to github via gitbash
+c=a+b
